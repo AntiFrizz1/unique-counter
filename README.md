@@ -2,4 +2,4 @@
 
 Task for VK Education.
 
-На основе: https://en.wikipedia.org/wiki/HyperLogLog
+Based on: https://en.wikipedia.org/wiki/HyperLogLog
